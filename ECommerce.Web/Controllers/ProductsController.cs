@@ -6,39 +6,39 @@ using System.Threading.Tasks;
 namespace ECommerce.Web.Controllers
 {
     public class ProductsController : Controller
-{
-    private readonly ProductService _productService;
-
-    public ProductsController(ProductService productService)
     {
-        _productService = productService;
-    }
+        private readonly ProductService _productService;
 
-    [HttpGet]
-    public async Task<IActionResult> Index()
-    {
-        var products = await _productService.GetAllProducts();
-        return View(products);
-    }
-
-    [HttpGet]
-    public IActionResult Create()
-    {
-        return View();
-    }
-
-    [HttpPost]
-    public async Task<IActionResult> Create(Product product)
-    {
-        if (ModelState.IsValid)
+        public ProductsController(ProductService productService)
         {
-            await _productService.AddProduct(product);
-            return RedirectToAction(nameof(Index));
+            _productService = productService;
         }
-        return View(product);
-    }
 
+        [HttpGet]
+        public async Task<IActionResult> Index()
+        {
+            var products = await _productService.GetAllProducts();
+            return View(products);
+        }
 
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> Create(Product product)
+        {
+            if (ModelState.IsValid)
+            {
+                await _productService.AddProduct(product);
+                return RedirectToAction(nameof(Index));
+            }
+            return View(product);
+        }
+
+        [HttpGet]
         public async Task<IActionResult> Edit(int id)
         {
             var product = await _productService.GetProductById(id);
@@ -60,6 +60,7 @@ namespace ECommerce.Web.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        [HttpGet]
         public async Task<IActionResult> Delete(int id)
         {
             var product = await _productService.GetProductById(id);
@@ -71,6 +72,7 @@ namespace ECommerce.Web.Controllers
         }
 
         [HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             await _productService.DeleteProduct(id);

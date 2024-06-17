@@ -9,3 +9,4 @@ C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.dll
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\refint\ECommerce.Core.dll
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.pdb
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ref\ECommerce.Core.dll
+C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.sourcelink.json
