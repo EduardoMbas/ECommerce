@@ -5,8 +5,8 @@ C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.Genera
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.AssemblyInfoInputs.cache
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.AssemblyInfo.cs
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.sourcelink.json
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.dll
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\refint\ECommerce.Core.dll
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.pdb
 C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ref\ECommerce.Core.dll
-C:\Users\Eduardo\ECommerce\ECommerce.Core\obj\Debug\net8.0\ECommerce.Core.sourcelink.json

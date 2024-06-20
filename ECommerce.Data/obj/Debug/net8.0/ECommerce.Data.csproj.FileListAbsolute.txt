@@ -9,10 +9,10 @@ C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.Genera
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.AssemblyInfoInputs.cache
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.AssemblyInfo.cs
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.sourcelink.json
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerc.0B8C960C.Up2Date
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.dll
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\refint\ECommerce.Data.dll
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.pdb
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.genruntimeconfig.cache
 C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ref\ECommerce.Data.dll
-C:\Users\Eduardo\ECommerce\ECommerce.Data\obj\Debug\net8.0\ECommerce.Data.sourcelink.json

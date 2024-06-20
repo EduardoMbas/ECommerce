@@ -1,0 +1,34 @@
+@model IEnumerable<CartItem>
+
+<h2>Shopping Cart</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Product</th>
+            <th>Quantity</th>
+            <th>Price</th>
+            <th>Total</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Product.Name</td>
+                <td>@item.Quantity</td>
+                <td>@item.Product.Price.ToString("C")</td>
+                <td>@(item.Product.Price * item.Quantity).ToString("C")</td>
+                <td>
+                    <a asp-action="RemoveFromCart" asp-route-productId="@item.ProductId" class="btn btn-danger">Remove</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><strong>Total: </strong>@Model.Sum(i => i.Product.Price * i.Quantity).ToString("C")</p>
+
+<a asp-action="ClearCart" class="btn btn-warning">Clear Cart</a>
+<a asp-action="Checkout" class="btn btn-success">Checkout</a>
