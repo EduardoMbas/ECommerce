@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj": {}
+    "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\ECommerce.Web.csproj": {}
   },
   "projects": {
     "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Core\\ECommerce.Core.csproj": {
@@ -189,6 +189,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -209,14 +215,14 @@
         }
       }
     },
-    "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj": {
+    "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\ECommerce.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
+        "projectUniqueName": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\ECommerce.Web.csproj",
         "projectName": "ECommerce.Web",
-        "projectPath": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\ECommerce.Web.csproj",
+        "projectPath": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\ECommerce.Web.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\obj\\",
+        "outputPath": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config"

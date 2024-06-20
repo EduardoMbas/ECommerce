@@ -1,34 +1,33 @@
-@model IEnumerable<CartItem>
+@model IEnumerable<ECommerce.Core.Models.Product>
 
-<h2>Shopping Cart</h2>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Lista de Produtos";
+}
 
-<table class="table">
-    <thead>
-        <tr>
-            <th>Product</th>
-            <th>Quantity</th>
-            <th>Price</th>
-            <th>Total</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>@item.Product.Name</td>
-                <td>@item.Quantity</td>
-                <td>@item.Product.Price.ToString("C")</td>
-                <td>@(item.Product.Price * item.Quantity).ToString("C")</td>
-                <td>
-                    <a asp-action="RemoveFromCart" asp-route-productId="@item.ProductId" class="btn btn-danger">Remove</a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
+<h1>Lista de Produtos</h1>
 
-<p><strong>Total: </strong>@Model.Sum(i => i.Product.Price * i.Quantity).ToString("C")</p>
+<p>
+    <a asp-action="Create" class="btn btn-primary">Adicionar Novo Produto</a>
+</p>
 
-<a asp-action="ClearCart" class="btn btn-warning">Clear Cart</a>
-<a asp-action="Checkout" class="btn btn-success">Checkout</a>
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-md-3">
+            <div class="card mb-3">
+                <img class="card-img-top" src="@item.ImageUrl" alt="@item.Name" />
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+                    <p class="card-text">@item.Description</p>
+                    <p class="card-text">@item.Price.ToString("C")</p>
+                    <form asp-controller="Cart" asp-action="AddToCart" method="post">
+                        <input type="hidden" name="productId" value="@item.Id" />
+                        <input type="number" name="quantity" value="1" min="1" class="form-control mb-2" />
+                        <button type="submit" class="btn btn-primary">Adicionar ao Carrinho</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    }
+</div>

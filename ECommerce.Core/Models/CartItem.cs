@@ -1,7 +1,12 @@
+using System;
 using ECommerce.Core.Models;
-public class CartItem
+
+namespace ECommerce.Core.Models
 {
-    public int ProductId { get; set; }
-    public Product Product { get; set; }
-    public int Quantity { get; set; }
+    public class CartItem
+    {
+        public int Id { get; set; }
+        public Product Product { get; set; } = null!;
+        public int Quantity { get; set; }
+    }
 }

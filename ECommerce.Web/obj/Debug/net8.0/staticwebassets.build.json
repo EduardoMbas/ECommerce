@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HmyIYzId9kziNJYvvMPX/bMVWBGWDVt/2Taw4QfVx3g=",
+  "Hash": "LqaaIz7VMTkNlbsAVxh3hkavv6SchT8Xju5ejtiwR/k=",
   "Source": "ECommerce.Web",
   "BasePath": "_content/ECommerce.Web",
   "Mode": "Default",
@@ -17,7 +17,7 @@
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\css\\site.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -36,7 +36,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\favicon.ico",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -55,7 +55,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\js\\site.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -74,7 +74,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -93,7 +93,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -112,7 +112,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -131,7 +131,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -150,7 +150,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -169,7 +169,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -188,7 +188,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -207,7 +207,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -226,7 +226,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -245,7 +245,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -264,7 +264,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -283,7 +283,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -302,7 +302,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -321,7 +321,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -340,7 +340,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -359,7 +359,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -378,7 +378,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -397,7 +397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -416,7 +416,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -435,7 +435,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -454,7 +454,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -473,7 +473,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -492,7 +492,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -511,7 +511,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -530,7 +530,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -549,7 +549,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -568,7 +568,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -587,7 +587,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -606,7 +606,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -625,7 +625,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -644,7 +644,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -663,7 +663,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -682,7 +682,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -701,7 +701,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -720,7 +720,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -739,7 +739,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -758,7 +758,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -777,7 +777,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -796,7 +796,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -815,7 +815,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -834,7 +834,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -853,7 +853,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -872,7 +872,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -891,7 +891,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -910,7 +910,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -929,7 +929,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -948,7 +948,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -967,7 +967,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -986,7 +986,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1005,7 +1005,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1024,7 +1024,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1043,7 +1043,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1062,7 +1062,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1081,7 +1081,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1100,7 +1100,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1119,7 +1119,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",
@@ -1138,7 +1138,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Eduardo\\ECommerce\\Ecommerce.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "ECommerce.Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Eduardo\\ECommerce\\ECommerce.Web\\wwwroot\\",

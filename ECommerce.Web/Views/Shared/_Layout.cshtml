@@ -17,12 +17,39 @@
                 <li class="nav-item">
                     <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                 </li>
+                @if (User.IsInRole("Admin"))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Products" asp-action="Index">Produtos</a>
+                    </li>
+                }
                 <li class="nav-item">
                     <a class="nav-link" asp-area="" asp-controller="Home" asp-action="About">About</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Contact">Contact</a>
                 </li>
+            </ul>
+            <ul class="navbar-nav ml-auto">
+                @if (User.Identity.IsAuthenticated)
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Cart" asp-action="Index">
+                            <i class="fa fa-shopping-cart"></i> Carrinho (@(ViewBag.CartItemsCount ?? 0)) - @(ViewBag.CartTotalPrice != null ? ViewBag.CartTotalPrice.ToString("C") : "R$ 0,00")
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <form asp-area="" asp-controller="Account" asp-action="Logout" method="post" class="form-inline">
+                            <button type="submit" class="btn btn-link nav-link" style="cursor: pointer;">Logout</button>
+                        </form>
+                    </li>
+                }
+                else
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Account" asp-action="Login">Login</a>
+                    </li>
+                }
             </ul>
         </div>
     </nav>
